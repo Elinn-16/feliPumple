@@ -1,0 +1,22 @@
+body{
+    background-image: url(/img/fondo.jpg); 
+}
+.containerUno{
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1000%;
+    margin: 0%;
+}
+
+.containerTres{
+background-color: bisque;
+}
+
